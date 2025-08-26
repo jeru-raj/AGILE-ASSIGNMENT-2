@@ -1,12 +1,10 @@
 # SOFTWARE ENGINEERING -ASSIGNMENT-2
-## UML Diagrams
-
 ### Class Diagram
-![Class Diagram](diagrams/class_diagram.jpg)
+![Class Diagram](diagrams/ClassDiagram.png)
 
 ### Sequence Diagram
-![Sequence Diagram](diagrams/sequence_diagram.jpg)
+![Sequence Diagram](diagrams/SequenceDiagram.png)
 
 ### Use Case Diagram
-![Use Case Diagram](diagrams/usecase_diagram.jpg)
+![Use Case Diagram](diagrams/UseCaseDiagram.png)
 
